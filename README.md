@@ -1,4 +1,4 @@
-# AzureVideoInsights
+# Azure Video Insights
 
 A comprehensive demonstration project showcasing Azure's video analysis capabilities through both Azure AI Content Understanding and Azure Video Indexer services. This repository provides practical implementations, comparisons, and integration examples for AI-powered video analytics solutions.
 
