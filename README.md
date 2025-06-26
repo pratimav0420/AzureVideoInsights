@@ -1,7 +1,7 @@
 # AzureVideoInsights
 
 
-# Azure AI Services Comparison
+# Azure Content Understanding and Video Indexer Comparison
 
 | **Capability** | **Azure AI Content Understanding (Preview)** | **Azure AI Video Indexer (GA)** |
 |----------------|----------------------------------------------|----------------------------------|
