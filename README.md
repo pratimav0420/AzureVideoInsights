@@ -1,7 +1,8 @@
 # AzureVideoInsights
 
+A comprehensive demonstration project showcasing Azure's video analysis capabilities through both Azure AI Content Understanding and Azure Video Indexer services. This repository provides practical implementations, comparisons, and integration examples for AI-powered video analytics solutions.
 
-# Azure Content Understanding and Video Indexer Comparison
+## 🔍 Service Comparison
 
 | **Capability** | **Azure AI Content Understanding (Preview)** | **Azure AI Video Indexer (GA)** |
 |----------------|----------------------------------------------|----------------------------------|
@@ -16,3 +17,31 @@
 | **Deployment Options** | Cloud-only (currently). | Cloud and Edge (via Azure Arc). |
 | **Integration & Access** | APIs and Azure AI Studio (Foundry). | Web portal, APIs, SDKs, and embeddable widgets. |
 | **Compliance & Security** | Limited compliance (preview); responsible AI considerations apply. | Certified for enterprise use (ISO, SOC, HIPAA, etc.); SLA-backed. |
+
+## 🛠️ Installation and Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/AzureVideoInsights.git
+   cd AzureVideoInsights
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   pip install azure-ai-documentintelligence
+   pip install azure-storage-blob
+   pip install azure-search-documents
+   pip install azure-identity
+   pip install openai
+   pip install python-dotenv
+   pip install requests
+   ```
+
+3. **Configure environment**:
+   - Copy `.env.example` to `.env`
+   - Fill in your Azure service credentials
+
+4. **Prepare sample data**:
+   - Place your video files in the `data/` directory
+   - Update file paths in the notebooks
+
