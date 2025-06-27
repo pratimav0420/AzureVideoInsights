@@ -10,15 +10,6 @@ Transform your video content into an intelligent, searchable, and conversational
 📊 **Rich Analytics** - Extract faces, emotions, topics, keywords, and detailed transcripts  
 🚀 **Production Ready** - Compare Azure AI Content Understanding vs Video Indexer for your use case  
 
-## 🎯 Key Features
-
-- **Conversational Video Interface**: Ask "What did they discuss about budgets?" or "Show me when John appeared"
-- **Semantic Video Search**: Find content by meaning, not just keywords
-- **Multi-Modal Analysis**: Process video, audio, and visual elements simultaneously  
-- **Real-time Insights**: Extract faces, objects, emotions, topics, and sentiment analysis
-- **Enterprise Ready**: Production-grade implementation with Azure's enterprise services
-- **Flexible Architecture**: Choose between Azure AI Content Understanding (Preview) or Video Indexer (GA)
-
 ## 🔍 Service Comparison
 
 | **Capability** | **Azure AI Content Understanding (Preview)** | **Azure AI Video Indexer (GA)** |
@@ -81,4 +72,22 @@ Receive precise answers with timestamps and relevant video segments
 4. **Prepare sample data**:
    - Place your video files in the `data/` directory
    - Update file paths in the notebooks
+
+## 📚 Detailed Setup Guides
+
+Choose your preferred Azure service and follow the comprehensive setup guide:
+
+### 🎬 Azure Video Indexer Setup
+**Recommended for: Production environments, enterprise applications, immediate deployment**
+
+📖 **[Complete Video Indexer Setup Guide](AzureVideoIndexer/VideoIndexerSetup.md)**
+
+---
+
+### 🧠 Azure AI Content Understanding Setup
+**Recommended for: Custom analysis workflows, advanced AI capabilities, experimental projects**
+
+📖 **[Complete Content Understanding Setup Guide](AzureContentUnderstanding/ContentUnderstandingSetup.md)**
+
+
 
