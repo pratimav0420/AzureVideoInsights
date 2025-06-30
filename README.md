@@ -1,4 +1,4 @@
-# 🎬 Chat with your Videos - AI-Powered Video Intelligence 
+# 🎬 Chat with your Videos
 
 Transform your video content into an intelligent, searchable, and conversational experience! This repository leverages Azure's AI services to extract deep insights from videos and enables natural language conversations about your content.
 
