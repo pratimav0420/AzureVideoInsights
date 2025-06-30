@@ -1,4 +1,4 @@
-# 🎬 Chat with Your Videos - AI-Powered Video Intelligence 
+# 🎬 Chat with your Videos - AI-Powered Video Intelligence 
 
 Transform your video content into an intelligent, searchable, and conversational experience! This repository leverages Azure's AI services to extract deep insights from videos and enables natural language conversations about your content.
 
@@ -8,13 +8,13 @@ Transform your video content into an intelligent, searchable, and conversational
 🔍 **Smart Discovery** - Find specific moments, topics, and insights across your video library  
 🎯 **Intelligent Search** - Semantic search powered by AI embeddings for precise content discovery  
 📊 **Rich Analytics** - Extract faces, emotions, topics, keywords, and detailed transcripts  
-🚀 **Production Ready** - Compare Azure AI Content Understanding vs Video Indexer for your use case  
+🚀 **Service Comparision** - Compare Azure AI Content Understanding vs Video Indexer for your use case  
 
 ## 🔍 Service Comparison
 
 | **Capability** | **Azure AI Content Understanding (Preview)** | **Azure AI Video Indexer (GA)** |
 |----------------|----------------------------------------------|----------------------------------|
-| **Service Availability** | Public preview – evolving, no SLA. GA expected in 6 months. | Generally Available – production-ready with full support and SLAs. |
+| **Service Availability** | Public preview – evolving, no SLA | Generally Available – production-ready with full support and SLAs. |
 | **Supported Content Modalities** | Multimodal: documents, images, audio, video. | Video and audio focused; limited image/document support. |
 | **Analysis Approach** | Segment-based generative analysis using GPT-4; customizable schema. | Frame-by-frame analysis with over 30 AI models. |
 | **AI Models & Techniques** | Generative AI + Cognitive Skills; customizable outputs. | Pre-trained ML models; fixed metadata extraction. |
