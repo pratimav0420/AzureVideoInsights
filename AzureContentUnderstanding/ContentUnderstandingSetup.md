@@ -84,8 +84,3 @@ az cognitiveservices account keys list --name content-understanding-service --re
 Save these values for your `.env` file:
 - Endpoint URL
 - Primary API Key
-- Secondary API Key
-
-## 🔧 Step 2: Environment Configuration
-
-#
